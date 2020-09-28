@@ -139,3 +139,11 @@ Select "LastName",count("LastName") as FrequencyCount
 from "Employee"
 Group By "LastName" 
 Order By FrequencyCount Desc
+
+--Epilogue
+
+select s.salary, t.title from Salaries as s join Employee as e on (s.EmployeeID = e.EmployeeID) 
+join Title as t on (e.EmployeeTitleID = t.TitleID)
+where e.EmployeeID = '499942'
+
+
