@@ -13,10 +13,13 @@ Design the tables to hold data in the CSVs, import the CSVs into a SQL database,
 
 # Data Modeling
 Inspect the CSVs and sketch out an ERD of the tables using QuickDBD
+![QuickDBD ER diagram!](https://github.com/RoshiniGau/SQL-Challenge/blob/master/Images/SchemaDesign.png"SchemaDiagram")
 
 # Data Engineering
 1. Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 2. Import each CSV file into the corresponding SQL table.
+
+https://github.com/RoshiniGau/SQL-Challenge/blob/master/SQLFiles/EmployeeTable.sql
 
 # Data Analysis
 1. List the following details of each employee: employee number, last name, first name, gender, and salary.
@@ -27,10 +30,15 @@ Inspect the CSVs and sketch out an ERD of the tables using QuickDBD
 6. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 7. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
+https://github.com/RoshiniGau/SQL-Challenge/blob/master/SQLFiles/FinalScript.sql
+
 # Bonus
 
 1. Create a bar chart of average salary by title.
+![Average Salary by Title!](https://github.com/RoshiniGau/SQL-Challenge/blob/master/Images/avg_salary_by_title.png"AverageSalaryByTitle")
+
 2. Create a histogram of common salary ranges of employees
+![Salary Ranges!](https://github.com/RoshiniGau/SQL-Challenge/blob/master/Images/Common%20Salary%20Ranges.png"SalaryRanges")
 
 # Summary
 1. Drew ERD of employee database tables,specifying data types,primary key and foreign key.
