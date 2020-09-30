@@ -35,10 +35,10 @@ https://github.com/RoshiniGau/SQL-Challenge/blob/master/SQLFiles/FinalScript.sql
 # Bonus
 
 1. Create a bar chart of average salary by title.
-![Average Salary by Title!](https://github.com/RoshiniGau/SQL-Challenge/blob/master/Images/avg_salary_by_title.png"AverageSalaryByTitle")
+![Average Salary by Title](https://github.com/RoshiniGau/SQL-Challenge/blob/master/Images/avg_salary_by_title.png)
 
 2. Create a histogram of common salary ranges of employees
-![Salary Ranges!](https://github.com/RoshiniGau/SQL-Challenge/blob/master/Images/Common%20Salary%20Ranges.png"SalaryRanges")
+![Salary Ranges](https://github.com/RoshiniGau/SQL-Challenge/blob/master/Images/Common%20Salary%20Ranges.png)
 
 # Summary
 1. Drew ERD of employee database tables,specifying data types,primary key and foreign key.
