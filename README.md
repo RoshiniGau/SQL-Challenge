@@ -33,6 +33,7 @@ https://github.com/RoshiniGau/SQL-Challenge/blob/master/SQLFiles/EmployeeTable.s
 https://github.com/RoshiniGau/SQL-Challenge/blob/master/SQLFiles/FinalScript.sql
 
 # Bonus
+
 1. Create a bar chart of average salary by title.
 ![Average Salary by Title](https://github.com/RoshiniGau/SQL-Challenge/blob/master/Images/avg_salary_by_title.png)
 
