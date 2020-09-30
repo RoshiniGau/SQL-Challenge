@@ -13,7 +13,7 @@ Design the tables to hold data in the CSVs, import the CSVs into a SQL database,
 
 # Data Modeling
 Inspect the CSVs and sketch out an ERD of the tables using QuickDBD
-![QuickDBD ER diagram!](https://github.com/RoshiniGau/SQL-Challenge/blob/master/Images/SchemaDesign.png"SchemaDiagram")
+![QuickDBD ER diagram](https://github.com/RoshiniGau/SQL-Challenge/blob/master/Images/SchemaDesign.png)
 
 # Data Engineering
 1. Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
